@@ -1,11 +1,10 @@
 import std.stdio;
 
-
-extern (C) void dbinit();
+const(char)*dbprtype(int token);
 
 void main(){
 
- dbinit();
+
 
 
 }

@@ -1,14 +1,9 @@
 import std.stdio;
 
-class Apple{
-
- string getName(){
-  return "";
- }
-
-}
+const(char)*dbprtype(int token);
 
 void main(){
+
 
 
 
